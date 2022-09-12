@@ -1,0 +1,10 @@
+C:\Users\Hatice Kübra\Desktop\ETrade\ETradeProject\ETradeProject\bin\Debug\ETradeProject.exe.config
+C:\Users\Hatice Kübra\Desktop\ETrade\ETradeProject\ETradeProject\bin\Debug\ETradeProject.exe
+C:\Users\Hatice Kübra\Desktop\ETrade\ETradeProject\ETradeProject\bin\Debug\ETradeProject.pdb
+C:\Users\Hatice Kübra\Desktop\ETrade\ETradeProject\ETradeProject\obj\Debug\ETradeProject.csproj.AssemblyReference.cache
+C:\Users\Hatice Kübra\Desktop\ETrade\ETradeProject\ETradeProject\obj\Debug\ETradeProject.Form1.resources
+C:\Users\Hatice Kübra\Desktop\ETrade\ETradeProject\ETradeProject\obj\Debug\ETradeProject.Properties.Resources.resources
+C:\Users\Hatice Kübra\Desktop\ETrade\ETradeProject\ETradeProject\obj\Debug\ETradeProject.csproj.GenerateResource.cache
+C:\Users\Hatice Kübra\Desktop\ETrade\ETradeProject\ETradeProject\obj\Debug\ETradeProject.csproj.CoreCompileInputs.cache
+C:\Users\Hatice Kübra\Desktop\ETrade\ETradeProject\ETradeProject\obj\Debug\ETradeProject.exe
+C:\Users\Hatice Kübra\Desktop\ETrade\ETradeProject\ETradeProject\obj\Debug\ETradeProject.pdb
